@@ -1,4 +1,3 @@
-library(plyr)
 library(reshape2)
 setwd('D:/88MA/ebooks/big_data/getting and cleaning data/course project/getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset')
 
