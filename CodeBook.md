@@ -16,10 +16,10 @@ Variable name    | Description
 -----------------|------------
 subject          | ID the subject who performed the activity for each window sample. Its range is from 1 to 30.
 activity         | Activity name
-con_subject      |df
-con_dt           |
-con_activity     |
-mean_sd          |
+con_subject      | all subjects in data sets
+con_dt           | all data in both data sets
+con_activity     | all data set activities
+mean_sd          | mean and SD of all activities
 filteredAD       |
 train_subject    |
 test_subject     | 
