@@ -48,6 +48,7 @@ tidy             | tidy data
 At this point the final data frame `mean_sd` looks like this:
 
 > filteredAD <- cbind(subject,activity,mean_sd)
+
 Activity Subject tBodyAcc.mean...X tBodyAcc.mean...Y tBodyAcc.mean...Z
 1  WALKING       1         0.2773308       -0.01738382        -0.1111481
 2  WALKING       2         0.2764266       -0.01859492        -0.1055004
